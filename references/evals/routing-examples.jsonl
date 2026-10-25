@@ -1,0 +1,8 @@
+{"phrase":"deploy Complianz on https://example.com","should_trigger":true}
+{"phrase":"set up a GDPR cookie banner for a client's WordPress site","should_trigger":true}
+{"phrase":"why is the complianz banner not showing on our shop","should_trigger":true}
+{"phrase":"run the complianz wizard and match the banner to the site design","should_trigger":true}
+{"phrase":"Google Ads asked us to fix consent mode, the site already has Complianz","should_trigger":true}
+{"phrase":"set up a CookieYes banner","should_trigger":false,"note":"another consent plugin; only a migration TO Complianz is in scope"}
+{"phrase":"write a privacy policy for this store","should_trigger":false,"note":"the skill never generates legal documents"}
+{"phrase":"run a full GDPR audit of the whole website","should_trigger":false,"note":"a site audit, not a banner deployment"}

@@ -1,0 +1,8 @@
+# generated locally, may contain credentials or site data
+apply.js
+*.sql
+*.png
+fontface.css
+banner.css
+__pycache__/
+.DS_Store
